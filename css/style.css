@@ -6,8 +6,10 @@
 .nav-item{ border-right:1px solid grey ;float:right ; border-left: 1px solid gray}
 li>a{
         display: block;color:white ;line-height: 50px;text-align: center; font-family: 'Courier New', Courier, monospace;
-        font-weight: bold; 
+        font-weight: bold;  
+
     }
+  .aa{ color: black;}
     .bg-nav{
         position: absolute;
         z-index: -1;
